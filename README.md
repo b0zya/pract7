@@ -53,4 +53,7 @@ python game.py
 
 ## Скриншоты
 
-*(добавьте сюда скриншоты игры после запуска, например в папку `screenshots/`)*
+<img width="802" height="633" alt="image" src="https://github.com/user-attachments/assets/f0821831-b324-4274-a216-051b0f2a94ca" />
+<img width="804" height="631" alt="image" src="https://github.com/user-attachments/assets/3aa8a934-ebfe-4def-87c6-2ac63d096e04" />
+
+
